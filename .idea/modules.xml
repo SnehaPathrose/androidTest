@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/androidTest.iml" filepath="$PROJECT_DIR$/androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcentertestlibrary/jcentertestlibrary.iml" filepath="$PROJECT_DIR$/jcentertestlibrary/jcentertestlibrary.iml" />
     </modules>
   </component>
 </project>
